@@ -1,0 +1,45 @@
+ERROR   2021-05-24 12:42:57,841 [http-nio-8080-exec-1] controller.MainController  - java.lang.ArithmeticException: / by zero
+ERROR   2021-05-24 12:44:14,866 [http-nio-8080-exec-4] controller.MainController  - java.lang.NullPointerException
+ERROR   2021-05-28 11:49:44,126 [http-nio-8080-exec-36] dao.HistoryDao  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'BookingDetail'.
+ERROR   2021-06-27 19:56:56,802 [http-nio-8084-exec-23] verifiEmail.SendEmailActive  - javax.mail.AuthenticationFailedException: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbs
+534-5.7.14 t6zEbutC4h3l3GzR3Wm-lk5p4w4Ukrfm7xzfvFD0FrN97cWib4J6bVA0TaOpLQqY4YpL2
+534-5.7.14 XCOdCEOI87UScixjJ8iv3R9XkTP2T0XmkYUQsvOdhM7ZQoY9csykCANH8l3KI6xL>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 g11sm11203075pgj.3 - gsmtp
+
+ERROR   2021-06-27 20:03:37,119 [http-nio-8084-exec-21] verifiEmail.SendEmailActive  - javax.mail.AuthenticationFailedException: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbv
+534-5.7.14 i9lR6JPQ94CuMW4Efb0YrS_EodgwtqoLVj_LvsC-fQQwAN5re0n3OgqMQpmYAD6yXt5C7
+534-5.7.14 Tzmnlj1OrWF4ZXcvWFdCQoIKngkRBIYp8IUnry4cI_v3D_kpwsaEVzkFcWqBRM50>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 f8sm10835905pjt.39 - gsmtp
+
+ERROR   2021-06-27 20:05:56,565 [http-nio-8084-exec-33] verifiEmail.SendEmailActive  - javax.mail.AuthenticationFailedException: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt
+534-5.7.14 C5TocGk3XgIIPJ34ENtD2xydo42MCuLrCcXYLlkA0u82lbeNE-ZlvtgfcX6i38_UPFdGm
+534-5.7.14 1-FjUXNgkmdRdAeHXdF-vFJi1SmiYXd4CJyf_OdFF3oBWIPAD5elPky1xci8LfPa>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 j15sm16401402pjn.28 - gsmtp
+
+ERROR   2021-06-27 20:10:11,082 [http-nio-8084-exec-34] verifiEmail.SendEmailActive  - javax.mail.AuthenticationFailedException: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt
+534-5.7.14 Z2SUisivls4alfbMurkDhuGmjgW_YrnwC4Pm3t7rV2V3lS6wqvUBWSZduLtS6OiexmvJ_
+534-5.7.14 mIaw38RgGrxH_owXqfxkZN2IHeSzGDaBNqq40R_4W1tlTAjQMdUfKslMuElSpzdU>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 n23sm11131676pff.93 - gsmtp
+
+ERROR   2021-06-27 20:12:11,697 [http-nio-8084-exec-40] verifiEmail.SendEmailActive  - javax.mail.AuthenticationFailedException: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbs
+534-5.7.14 EV7nX0ULvpX4t9rMzNNi7VZI_GhRPtm3NYhyHEyKe-0zDUFaVGyZcL-4eRaEtTg_kEiBd
+534-5.7.14 JktmgXbT20vzkbZcq5VXFOa5u2kfRTASUzIqZbJ8wvWAe_ew0hUIFhSZhznrknC9>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 81sm11412728pgg.85 - gsmtp
+
+ERROR   2021-06-27 20:14:17,409 [http-nio-8084-exec-39] verifiEmail.SendEmailActive  - javax.mail.AuthenticationFailedException: 534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu
+534-5.7.14 rBJtSFZTNmCapz0q_tsIWegq0OBDd27Ul4TlVDl_2VDa-DhBdUtfZwjM-Sv_6OVq6igYs
+534-5.7.14 14RFsuEt5IxNC66PdEwzzL5KuwxJR0oPN-FJjpw9k4Y7IuZmamnuzS9CeVVVqBrT>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 73sm11263605pfy.83 - gsmtp
+
